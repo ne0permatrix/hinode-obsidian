@@ -1,6 +1,6 @@
 ---
-title: Panah Suon's Thought Archive!
-description: A Road Racing Cyclist turned Homesteader & Content Creator | Exploring Agroecology, Earthen Building, Social Business.
+title: Panha Suon's Thought Archive!
+description: A Road Racing Cyclist turned Homesteader & Content Creator | Exploring Agroecology, Earthen Building, Social Business
 thumbnail:
     url: /img/sunrise.jpg
     author: Harris Vo
