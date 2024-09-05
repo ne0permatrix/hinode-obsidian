@@ -1,6 +1,6 @@
 ---
-title: Welcome to Hinode!
-description: A clean documentation and blog theme for your Hugo site based on Bootstrap 5.
+title: Panah Suon's Thought Archive!
+description: A Road Racing Cyclist turned Homesteader & Content Creator | Exploring Agroecology, Earthen Building, Social Business.
 thumbnail:
     url: /img/sunrise.jpg
     author: Harris Vo
