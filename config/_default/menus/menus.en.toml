@@ -2,6 +2,23 @@
   name = "Home"
   pageRef = "/"
   weight = 10
+  
+[[main]]
+  name = "Blog"
+  pageRef = "/blog/"
+  weight = 10
+
+[[main]]
+  name = "Dassatek"
+  pageRef = "/projects/dassatek/"
+  parent = "Projects"
+  weight = 1
+
+[[main]]
+  name = "SelftaughtKH"
+  pageRef = "/projects/selftaughtkh/"
+  parent = "Projects"
+  weight = 2
 
 [[main]]
   name = "Tags"
